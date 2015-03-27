@@ -2,7 +2,9 @@
 
 ###Links
 [https://www.youtube.com/watch?v=XRYN2xt11Ek&feature=youtu.be](Video)
+
 [https://github.com/Reactive-Extensions/RxJS](Reactive Extensions JS)
+
 [http://jhusain.github.io/learnrx/](Learn RX)
 
 
