@@ -1,11 +1,11 @@
 # Netflix async JavaScript with Reactive Extensions
 
 ###Links
-[https://www.youtube.com/watch?v=XRYN2xt11Ek&feature=youtu.be](Video)
+[Video](https://www.youtube.com/watch?v=XRYN2xt11Ek&feature=youtu.be)
 
-[https://github.com/Reactive-Extensions/RxJS](Reactive Extensions JS)
+[Reactive Extensions JS](https://github.com/Reactive-Extensions/RxJS)
 
-[http://jhusain.github.io/learnrx/](Learn RX)
+[Learn RX](http://jhusain.github.io/learnrx/)
 
 
 ### Flexible functions
